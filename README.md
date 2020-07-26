@@ -1,6 +1,8 @@
 # app
 Created with CodeSandbox
 # steps
-1.created fake API
-2.react datepicker
-3.bootstrap for styling
+<ol>
+  <li>created fake API</li>
+  <li>react datepicker</li>
+  <li>bootstrap for styling</li>
+ </ol?
